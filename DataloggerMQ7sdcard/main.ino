@@ -45,6 +45,14 @@ void loop() {
     runClock();
     lcdPrint();
 
+    if (mapCo >= 60){
+      tone(10, 10);
+      digitalWrite(9, HIGH);
+    } else {
+      noTone(10);
+      digitalWrite(9, LOW);
+    }
+
     myFile = SD.open("mydata.txt", FILE_WRITE);
     myFile.print(myClock);
     myFile.print("\t");
