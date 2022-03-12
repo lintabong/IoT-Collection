@@ -6,5 +6,4 @@ table of contents:
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/WaterFlowMonitoring/waterflow.png)
 
-==========================================================================================
-===================================================
+=============================================================
