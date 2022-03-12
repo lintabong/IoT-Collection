@@ -1,15 +1,15 @@
 # IoT-Collection
+
 A collection of IoT (Arduino and nodeMCU) codes that I have created. You can copy the code and use it.
 
-table of contents:
-1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/IoT-Collection/tree/main/WaterFlowMonitoring)
+
+### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/IoT-Collection/tree/main/WaterFlowMonitoring)
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/WaterFlowMonitoring/waterflow.png)
+=====
 
-=============================================================
 
-2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/IoT-Collection/tree/main/DataloggerMQ7sdcard)
+### 2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/IoT-Collection/tree/main/DataloggerMQ7sdcard)
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/DataloggerMQ7sdcard/datalogger.png)
-
-=============================================================
+=====
