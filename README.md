@@ -7,3 +7,9 @@ table of contents:
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/WaterFlowMonitoring/waterflow.png)
 
 =============================================================
+
+2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/IoT-Collection/tree/main/DataloggerMQ7sdcard)
+
+![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/DataloggerMQ7sdcard/datalogger.png)
+
+=============================================================
