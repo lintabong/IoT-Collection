@@ -4,13 +4,14 @@ A collection of arduino codes and similar boards derived from my various experim
 
 
 ### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/IoT-Collection/tree/main/WaterFlowMonitoring)
-<p> Using nodemcu, I create a circuit to read the current of water and transmit the data to the firebase. Then, the data that has been sent in firebase, downloaded and monitored in real time using android apps </p> 
+<p>Using nodemcu, I create a circuit to read the current of water and transmit the data to the firebase. Then, the data that has been sent in firebase, downloaded and monitored in real time using android apps.</p> 
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/WaterFlowMonitoring/waterflow.png)
 =====
 
 
 ### 2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/IoT-Collection/tree/main/DataloggerMQ7sdcard)
+<p>I have created a datalogger to detect co levels in percent by using co sensors. As well as a program to calculate how long the program runs without using RTC, co-level data is stored into a sd card.</p>
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/DataloggerMQ7sdcard/datalogger.png)
 =====
