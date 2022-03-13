@@ -2,10 +2,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "waterflowdb-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "5bj22DBZgXDgzXKkaufsBm2Uo4ajEMXES96PFlrM"
-#define WIFI_SSID "Didik"
-#define WIFI_PASSWORD "22des*92"
+#define FIREBASE_HOST "*************************.firebaseio.com"
+#define FIREBASE_AUTH "*************************4ajEMXES96PFlrM"
+#define WIFI_SSID "default"
+#define WIFI_PASSWORD "wifipass"
 
 const int SAMPLE_TIME = 1000;
 unsigned long millisCurrent;
@@ -87,13 +87,5 @@ void loop() {
         count2 = 0;
         count3 = 0;
         millisLast = millis();
-    }
-//    Serial.print(digitalRead(D0));
-//    Serial.print("\t");
-//    Serial.print(digitalRead(D1));
-//    Serial.print("\t");
-//    Serial.print(digitalRead(D2));
-//    Serial.println("\t");
-
-  
+    }  
 }
