@@ -17,6 +17,7 @@ A collection of arduino codes and similar boards derived from my various experim
 =====
 
 ### 3. [Simple OOP LED](https://github.com/lintabong/IoT-Collection/tree/main/SimpleOOPled)
+<p>simple code OOP C++ to control the time on and off of LEDs</p>
 
 ![Layout](https://github.com/lintabong/IoT-Collection/blob/main/SimpleOOPled/image843.png)
 =====
