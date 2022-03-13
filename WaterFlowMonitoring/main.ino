@@ -69,16 +69,12 @@ void loop() {
         flow2 = flow2 / 60000;
         flow3 = (count3 * 2.25);
         flow3 = flow3 / 60000; 
-
- 
         
         Serial.print(flow1);
         Serial.print(",");
         Serial.print(flow2);
         Serial.print(",");
-        Serial.println(flow3);
-
-        
+        Serial.println(flow3);        
 
         Firebase.setFloat("user01/wf", flow1);
         Firebase.setFloat("user01/wf", flow2);
