@@ -1,6 +1,6 @@
 # IoT-Collection
 
-A collection of arduino codes and similar boards derived from my various experiments. You can use the code for free.
+A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derived from my various experiments. You can use the code for free.
 
 
 ### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/IoT-Collection/tree/main/WaterFlowMonitoring)
