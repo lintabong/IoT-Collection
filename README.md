@@ -4,7 +4,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 
 
 ### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/IoT-Collection/tree/main/WaterFlowMonitoring)
-<p>Using nodemcu, I create a circuit to read the current of water and transmit the data to the firebase. Then, the data that has been sent in firebase, downloaded and monitored in real time using android apps.</p> 
+<p>Using nodeMCU, I created a circuit to read the waterflow and transmit the data to the Firebase Realtime Database. Then, the data that has been sent in firebase, downloaded and monitored in real time using android apps.</p> 
 
 ![Android Layout](https://github.com/lintabong/IoT-Collection/blob/main/WaterFlowMonitoring/waterflow.png)
 =====
