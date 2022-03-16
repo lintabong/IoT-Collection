@@ -17,7 +17,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 =====
 
 ### 3. [Simple OOP LED](https://github.com/lintabong/IoT-Collection/tree/main/SimpleOOPled)
-<p>simple code OOP C++ to control the time on and off of LEDs</p>
+<p>simple code C++ to control the time on and off of LEDs using Object Oriented</p>
 
 ![img](https://github.com/lintabong/IoT-Collection/blob/main/SimpleOOPled/image843.png)
 =====
