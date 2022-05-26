@@ -16,7 +16,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 ![img](https://github.com/lintabong/IoT-Collection/blob/main/DataloggerMQ7sdcard/datalogger.png)
 =====
 
-### 3. [Simple OOP LED](https://github.com/lintabong/IoT-Collection/tree/main/SimpleOOPled)
-<p>simple code C++ to control the time on and off of LEDs using Object Oriented</p>
+### 3. [Car Counter](https://github.com/lintabong/IoT-Collection/tree/main/CarCounter)
+<p>Car Counter Based on distance sensor</p>
 
 
