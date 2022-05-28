@@ -17,6 +17,6 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 =====
 
 ### 3. [Car Counter](https://github.com/lintabong/IoT-Collection/tree/main/CarCounter)
-<p>Car Counter Based on distance sensor</p>
+<p>Car Counter Based on distance sensor, first we count initial time of of car and then measure the end time with second distance sensor</p>
 
 
