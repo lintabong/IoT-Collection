@@ -2,6 +2,7 @@
 
 LiquidCrystal_I2C lcd = LiquidCrystal_I2C(0x27, 16, 2);
 
+//initiate variable
 int s1;
 int s2;
 float distance = 11;
