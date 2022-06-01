@@ -10,7 +10,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 =====
 
 
-### 2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/IoT-Collection/tree/main/DataloggerMQ7sdcard)
+### 2. [MQ7 Realtime Sensor & Datalogger](https://github.com/lintabong/MQ7-Datalogger/blob/main/datalogger.png)
 <p>I have created a datalogger to detect co levels in percent by using MQ7. As well as a program to calculate how long the program runs without using RTC, co-level data is stored into a sd card.</p>
 
 ![img](https://github.com/lintabong/IoT-Collection/blob/main/DataloggerMQ7sdcard/datalogger.png)
