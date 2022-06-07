@@ -37,7 +37,7 @@ class Flasher{
 
 
 Flasher led1(2, 10, 40);
-Flasher led2(7, 350, 350);
+Flasher led2(7, 350, 30);
 Flasher led3(13, 50, 50);
 
 void setup(){
