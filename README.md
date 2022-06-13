@@ -16,7 +16,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 ![img](https://github.com/lintabong/MQ7-Datalogger/blob/main/datalogger.png)
 =====
 
-### 3. [Car Counter](https://github.com/lintabong/IoT-Collection/tree/main/CarCounter)
+### 3. [Car Counter](https://github.com/lintabong/Car-Counter)
 <p>Car Counter Based on distance sensor, first we count initial time of of car and then measure the end time with second distance sensor</p>
 
 ![img]()
