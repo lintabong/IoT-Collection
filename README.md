@@ -22,3 +22,6 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 ### 4. [Facemask Detector](https://github.com/lintabong/Facemask-Detector)
 <p> project based on Raspberry & Arduino </p>
 
+### 4. [OOP Relay](https://github.com/lintabong/OOP-Relay)
+<p> OOP to controll relay time </p>
+
