@@ -23,7 +23,7 @@ A collection of arduino codes and similar boards (Raspberry pi & ESP8266) derive
 =====
 
 ### 4. [Facemask Detector](https://github.com/lintabong/Facemask-Detector)
-<p> project based on Raspberry & Arduino </p>
+<p> project based on Raspberry & Arduino, keypad is used to change the id</p>
 
 ![img](https://github.com/lintabong/Facemask-Detector/blob/main/image857.png)
 =====
