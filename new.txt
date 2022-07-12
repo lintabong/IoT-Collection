@@ -31,3 +31,19 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 make -j$(nproc)
 sudo make install
 sudo ldconfig
+
+
+Ohya, biasanya pada project computer vision dengan OpenCV membutuhkan library tambahan yakni ‘opencv-contrib-python’. Silahkan ditambahkan sekalian daripada suatu saat error malah jadi bingung 🙂
+
+1
+pip install opencv-contrib-python
+Terakhir, kembalikan swap file menjadi bernilai 100
+
+1
+sudo nano /etc/dphys-swapfile
+1
+CONF_SWAPSIZE=100
+restart untuk memastikan
+
+1
+sudo systemctl restart dphys-swapfile
