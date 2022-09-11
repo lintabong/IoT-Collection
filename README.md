@@ -4,7 +4,7 @@ A collections of my projects about arduino and similar boards (Raspberry pi & ES
 
 
 ### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/Water-Flow-Monitoring)
-<p>Using nodeMCU, I created a circuit to read the waterflow and transmit the data to the Firebase Realtime Database. Then, the data that has been sent in firebase, downloaded and monitored in real time using android app.</p> 
+<p>Using nodeMCU, I created a circuit to read the flow of water and transmit the data to the Firebase Realtime Database. Then, the data that has been sent in firebase, downloaded and monitored in real time using android app.</p> 
 
 ![img](https://github.com/lintabong/Water-Flow-Monitoring/blob/main/waterflow.png)
 =====
@@ -16,7 +16,7 @@ A collections of my projects about arduino and similar boards (Raspberry pi & ES
 ![img](https://github.com/lintabong/MQ7-Datalogger/blob/main/datalogger.png)
 =====
 
-### 3. [Car Counter](https://github.com/lintabong/Car-Counter)
+### 3. [Car Counter Prototype](https://github.com/lintabong/Car-Counter)
 <p>Car Counter Based on distance sensor, first we count initial time of of car and then measure the end time with second distance sensor</p>
 
 ![img](https://github.com/lintabong/Car-Counter/blob/main/car_count.png)
