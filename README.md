@@ -4,7 +4,7 @@ A csollections of my projects about arduino and similar boards (Raspberry pi & E
 
 
 ### 1. [Waterflow Meter (NodeMCU - Firebase - Android Native)](https://github.com/lintabong/Water-Flow-Monitoring)
-<p>Using nodeMCU, I created a circuit to read the flow of water and transmit the data to the Firebase Realtime Database. Then, the data that has been sent in firebase, downloaded and monitored in real time using android app.</p> 
+<p>Using nodeMCU, I created a circuit to read the flow of water and transmit the data to the Firebase Realtime Database. Then, the data that has been sent in firebase, downloaded and monitored in real time using android app..</p> 
 
 ![img](https://github.com/lintabong/Water-Flow-Monitoring/blob/main/waterflow.png)
 =====
